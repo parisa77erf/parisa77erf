@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parisa</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://media.licdn.com/dms/image/v2/D4D16AQG_FdBIyOmikQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737399237003?e=1759968000&amp;v=beta&amp;t=K-xFoKdT3uFk2RAdz7TGx-ZNIKSqmyIOmJ88A3pFMz8" width="531" height="132">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parisa77erf&label=Profile%20views&color=0e75b6&style=flat" alt="parisa77erf" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parisa77erf" alt="parisa77erf" /></a> </p>
